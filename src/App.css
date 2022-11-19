@@ -1,0 +1,37 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 3rem;
+}
+.Main>.BigContainer{
+    border-radius: 50px;
+    width: 750px;
+    height: 650px;
+    display: flex;
+    background-color: #F2F2F2;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;    
+}
+.Main>.BigContainer>.NavBar{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+.Main>.title{
+    font-size: 35px;
+    color: #FFD600;
+    font-weight: bolder;
+    
+}
+.Main>.BigContainer>.DataContainer{
+    width: 80%;
+    height: 68%;
+    border-radius: 35px;
+    padding: 25px;
+    background-color: #D9D9D9;
+}
