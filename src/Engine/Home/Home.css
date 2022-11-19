@@ -1,0 +1,11 @@
+.Item {
+  display: flex;
+  width: 16rem;
+  height: 75px;
+  padding: 0.5rem;
+  flex-direction: column;
+  background-color: rgb(165, 125, 202);
+  border-radius: 15px;
+  margin-bottom: 25px;
+  justify-content: flex-start;
+}/*# sourceMappingURL=Home.css.map */

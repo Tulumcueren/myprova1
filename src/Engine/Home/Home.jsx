@@ -1,3 +1,4 @@
+import './Home.scss';
 function Home(props) {
     const Item= (props)=>{
         return (
